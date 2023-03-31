@@ -1,6 +1,6 @@
 ## Ejercicio práctico Certificado de profesionalidad
 
-### Aplicación web integracion audios, videos e imagenes.
+### Aplicación web uso contenido multimedia con integracion audios, videos e imagenes.
 
 
 - Html5
